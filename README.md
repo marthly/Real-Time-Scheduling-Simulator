@@ -18,9 +18,9 @@ to test whether a batch of tasks/jobs from a file will be completed before their
 
 ## How To Run File
 1. Open terminal and navigate to project folder
-2. In terminal execute: ***make RTS_Simulator***
-3. In terminal execute: ***./RTS_Simulator***
-4. Run program command
+2. In terminal execute: ***make RTS_Simulator*** (Compile all the files)
+3. In terminal execute: ***./RTS_Simulator*** (Executes the program)
+4. Enter and run one of the program command listed below
 
 ### Program Command Format
 #### Simulate Scheduling Algorithm
